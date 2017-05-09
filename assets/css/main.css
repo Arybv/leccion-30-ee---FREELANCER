@@ -1,0 +1,29 @@
+/*
+ * Estilos de tu proyecto
+ */
+ *{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+ }
+.cabecera{
+  background-color: #2C3E50;
+}
+.verde01{
+  background-color: #18BC9C;
+}
+.blanco01{
+  background-color: #ffffff;
+}
+.download{
+  background-color: #18BC9C;
+}
+.blanco02{
+  background-color: #ffffff;
+}
+.location{
+  background-color: #2C3E50;
+}
+.final{
+  background-color: #233140;
+}
