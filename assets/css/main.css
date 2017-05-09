@@ -5,25 +5,38 @@
    box-sizing: border-box;
    margin: 0;
    padding: 0;
+   text-align: center;
+ }
+ img{
+   width: 30%;
+   height: 30%;
  }
 .cabecera{
   background-color: #2C3E50;
+  height: 50px;
+  color: white;
 }
 .verde01{
   background-color: #18BC9C;
+  color: white;
 }
 .blanco01{
   background-color: #ffffff;
+  color: #333333;
 }
 .download{
   background-color: #18BC9C;
+  color: white;
 }
 .blanco02{
   background-color: #ffffff;
+  color: #333333;
 }
 .location{
   background-color: #2C3E50;
+  color: white;
 }
 .final{
   background-color: #233140;
+  color: white;
 }
