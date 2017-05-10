@@ -33,19 +33,17 @@
   background-color: #ffffff;
   color: #333333;
 }
-/*************************SECTION LOCATION*********************/
+/***********SECTION LOCATION - casi listo**********/
 .location{
   background-color: #2C3E50;
   color: white;
   display: flex;
 }
 .local-01{
-  background-color: red;
   width: 33.3%;
   padding: 70px 39.2px;
 }
 .local-02{
-  background-color: green;
   width: 33.3%;
   padding: 70px 39.2px;
 }
@@ -58,25 +56,32 @@
   justify-content: center;
   align-items: center;
   margin: auto;
-  border: 1px solid red;
+  border: 2px solid #ffffff;
   border-radius: 50%;
   width: 50px;
   height: 50px;
-  transition: 3px;
+  transition-property: font-size;
+  transition-duration: 7s;
+  transition-delay: 2s;
+}
+.local:hover {
+  transition-duration: 7s;
+  transition-delay: 2s;
+  background-color: #ffffff;
+  color: #18BC9C;
 }
 .local-03{
-  background-color: pink;
   width: 33.3%;
   padding: 70px 39.2px;
 }
 .colorGreen{
   color: #18BC9C;
 }
-/*************************FOOTER LISTO*************************/
+/******************FOOTER - LISTO*****************/
 footer{
   display: block;
   background-color: #233140;
   color: white;
-  font-size: 12px;
+  font-size: 13px;
   padding: 28px;
 }
