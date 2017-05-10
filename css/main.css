@@ -33,13 +33,26 @@
   background-color: #ffffff;
   color: #333333;
 }
+/*************************SECTION LOCATION*********************/
 .location{
   background-color: #2C3E50;
   color: white;
+  display: flex;
 }
-.final{
-  background-color: #233140;
-  color: white;
+.local-01{
+  background-color: red;
+  width: 33.3%;
+  padding: 70px 39.2px;
+}
+.local-02{
+  background-color: green;
+  width: 33.3%;
+  padding: 70px 39.2px;
+}
+.local-03{
+  background-color: pink;
+  width: 33.3%;
+  padding: 70px 39.2px;
 }
 /*************************FOOTER LISTO*************************/
 footer{
