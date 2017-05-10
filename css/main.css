@@ -8,7 +8,38 @@
    text-align: center;
    font-family: helvetica;
  }
- /***********SECTION PORTFOLIO - casi listo***********/
+ /***********SECTION PORT - casi listo***********/
+ .cabecera{
+   background-color: #2C3E50;
+   height: 100px;
+   color: #ffffff;
+   display: flex;
+   flex-direction: row;
+ }
+ li{
+   list-style: none;
+ }
+ .boton02{
+   display: flex;
+   padding: 10px;
+   width: auto;
+   height: 40px;
+   flex-direction: row-reverse;
+   background-color: #18BC9C;
+   border: 2ps solid #ffffff;
+   border-radius: 6px;
+ }
+ /***********SECTION PORT - casi listo***********/
+ .starBo{
+   padding: 70px;
+   background-color: #18BC9C;
+   color: #ffffff;
+   font-size: 35px;
+ }
+ .prim{
+   font-size: 15px;
+ }
+ /***********SECTION PORT - casi listo***********/
 .port{
   padding: 70px 1px;
 }
@@ -16,19 +47,6 @@
    width: 27%;
    height: 27%;
  }
-.cabecera{
-  background-color: #2C3E50;
-  height: 50px;
-  color: white;
-}
-.verde01{
-  background-color: #18BC9C;
-  color: white;
-}
-.blanco01{
-  background-color: #ffffff;
-  color: #333333;
-}
 /***********SECTION ABOUT - casi listo***********/
 .about{
   padding: 70px 210px;
