@@ -6,6 +6,7 @@
    margin: 0;
    padding: 0;
    text-align: center;
+   font-family: helvetica;
  }
  img{
    width: 30%;
@@ -39,4 +40,12 @@
 .final{
   background-color: #233140;
   color: white;
+}
+/*************************FOOTER LISTO*************************/
+footer{
+  display: block;
+  background-color: #233140;
+  color: white;
+  font-size: 12px;
+  padding: 28px;
 }
