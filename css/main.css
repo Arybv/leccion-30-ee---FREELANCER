@@ -25,13 +25,37 @@
   background-color: #ffffff;
   color: #333333;
 }
-.download{
+/***********SECTION ABOUT - casi listo***********/
+.about{
+  padding: 70px 210px;
   background-color: #18BC9C;
   color: white;
 }
+.aboutColumn{
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 22px;
+  text-align: none;
+}
+.boton01{
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  text-align: center;
+  font-size: 18px;
+  background-color: #18BC9C;
+  border: 2px solid #ffffff;
+  border-radius: 6px;
+  padding: 10px;
+  color: #ffffff;
+}
+.boton01:hover{
+  background-color: #ffffff;
+}
 /***********SECTION CONTACTO - casi listo***********/
 .contacto{
-  padding: 70px;
+  padding: 70px 210px;
   background-color: #ffffff;
   color: #333333;
 }
@@ -56,7 +80,7 @@
   justify-content: center;
 }
 .sub{
-  border: none;
+  border: 2px solid #ffffff;
   border-radius: 9px;
   background-color: #18BC9C;
   font-size: 110%;
